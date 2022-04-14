@@ -4,11 +4,11 @@
 <img src ="https://data.whicdn.com/images/350989735/original.gif" >
 
 <div>
-  <a href="https://github.com/ellen2121">
+  <a href="https://github.com/GilbertoGabriel">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=GilbertoGabriel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GILBERTOGABRIEL&layout=compact&langs_count=7&theme=react"/>
 
-  <img width="148" height="180" href="https://i.gifer.com/2gVp.gif">
+  <img  src="https://i.gifer.com/2gVp.gif">
 </div>
   <div  align="center"> 
   <div style="display: inline_block"><br>
