@@ -1,6 +1,5 @@
-<h1>Hi devs</div>  
-
-</div>
+<h1>Hi devs</h1>
+  
 <img src ="https://data.whicdn.com/images/350989735/original.gif" >
 
 <div>
@@ -9,7 +8,7 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoGabriel&layout=compact&langs_count=7&theme=react"/>
     
 </div>
-  <div  align="center"> 
+ <div  align="center"> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
