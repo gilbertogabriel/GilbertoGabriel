@@ -3,11 +3,12 @@
 </div>
 <img src ="https://data.whicdn.com/images/350989735/original.gif" >
 
-<div align="center">
-  <a href="https://github.com/GilbertoGabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilbertoGabriel&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoGabriel&layout=compact&langs_count=7&theme=github_dark"/>
-    
+<div>
+  <a href="https://github.com/ellen2121">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=GilbertoGabriel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GILBERTOGABRIEL&layout=compact&langs_count=7&theme=react" />
+
+  <img align="center" width="148" height="180" src="![image](https://user-images.githubusercontent.com/103115173/163384630-c2423ce5-111e-499d-b869-7ffd41dc120f.png)">
 </div>
   <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -18,6 +19,5 @@
     
 </div>
   <div>
-  ![Snake animation](https://github.com/GilbertoGabriel/GilbertoGabriel/blob/output/github-contribution-grid-snake.svg)
   
 </div>
