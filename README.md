@@ -1,4 +1,4 @@
-<h1>Hi devs, welcome in my profile</h1>
+<h1>Hi devs</h1>
   
 <img src ="https://data.whicdn.com/images/350989735/original.gif" >
 <div>
